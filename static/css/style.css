@@ -1,0 +1,26 @@
+* {
+    background-color: #2a2a2a;
+}
+
+h1 {
+    color: black;
+    background-color: white;
+    font: Verdana, sans-serif;
+    font-size: 50px;
+}
+
+
+#list {
+    list-style: none;
+    color: white;
+}
+
+.subtitle, .paragraph, #name, #email, #text {
+    color: white;
+}
+
+#plastic-factory {
+    display: inline;    
+    justify-content: right
+    
+}

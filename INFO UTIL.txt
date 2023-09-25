@@ -1,0 +1,3 @@
+https://developers.google.com/search/docs/fundamentals/seo-starter-guide?hl=es
+https://developers.google.com/search/docs/crawling-indexing/sitemaps/overview?hl=es
+https://developers.google.com/search/docs/appearance/snippet?hl=es#meta-descriptions
